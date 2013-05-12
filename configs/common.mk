@@ -17,8 +17,7 @@ PRODUCT_PACKAGES += \
     Superuser \
     su \
     SwagPapers \
-    Torch \
-    UnicornPorn
+    Torch 
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html \
